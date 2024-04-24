@@ -1,0 +1,14 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+numpy==1.26.1
+opencv-python==4.8.1.78
+pygame==2.5.2
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.2
+PyQt6-sip==13.6.0
+pyserial==3.5
+pyTelegramBotAPI==4.16.1
+requests==2.31.0
+telebot==0.0.5
+urllib3==2.2.1
