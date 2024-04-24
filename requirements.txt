@@ -12,3 +12,5 @@ pyTelegramBotAPI==4.16.1
 requests==2.31.0
 telebot==0.0.5
 urllib3==2.2.1
+beautifulsoup4==4.10.0
+openai==0.10.2
